@@ -1,38 +1,52 @@
-# armanjunach12.
-"My personal repository."
-# Hi there, I'm Arman junach 👋
+# Hello, I'm Arman Junach 👋
 
-Welcome to my GitHub profile! I am a passionate **Web Developer** and **C++ enthusiast**. I love building creative projects and solving complex problems. Here, you will find a variety of repositories showcasing my journey and growth in the world of programming.
+Welcome to my GitHub profile! I'm currently pursuing my **BSc in IT, Cloud & App Development**, and I'm passionate about creating innovative solutions in the cloud and mobile app space. I'm always exploring new technologies and contributing to open-source projects.
 
-## 🚀 About Me
+Here's a snapshot of my activity, contributions, and some of the cool projects I'm working on.
 
-- 🔭 I’m currently working on **web development** projects, learning new frameworks, and building scalable web applications.
-- 🌱 I’m currently learning **C++** for more performance-oriented programming and algorithms.
-- 👯 I’m looking to collaborate on **web development** projects and **open-source** C++ libraries.
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Node.js, C++**, or anything programming-related.
+---
 
-## 🛠️ Technologie tools
+## 📊 GitHub Stats
 
-### Web Development:
+![Arman Junach's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arman-junach&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
-- **Frontend**: HTML, CSS, JavaScript, React, Vue.js, SASS
-- **Backend**: Node.js, Express.js, Django, Flask
-- **Database**: MongoDB, MySQL, PostgreSQL
-- **Version Control**: Git, GitHub, GitLab
-- **Tools**: Webpack, Babel, Docker
+---
 
-### C++ Development:
+## 🏆 GitHub Trophies
 
-- **Languages**: C++
-- **Libraries/Frameworks**: STL, Boost, OpenGL (for graphics programming)
-- **Tools**: Visual Studio, CLion, g++ (GNU Compiler)
-- **Concepts**: Object-Oriented Programming, Data Structures, Algorithms
+![Arman Junach's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=arman-junach&theme=radical)
 
-## 🌱 Currently Learning
+---
 
-- **Advanced C++**: Pointers, Templates, Memory Management
-- **Web Development**: Full-stack JavaScript (MERN Stack)
-- **Cloud Technologies**: AWS, Firebase, Docker
-- **Algorithms**: Sorting Algorithms, Graph Algorithms, Dynamic Programming
+## 📈 Contribution Graph
 
+![Arman Junach's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=arman-junach&theme=github)
+
+---
+
+## 📊 My Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arman-junach&layout=compact&theme=radical)
+
+---
+
+## 🧑‍💻 Skills & Tools
+- **Languages**: JavaScript, Python, Java, C++
+- **Frameworks & Libraries**: React, Node.js, Django, Express, Flutter
+- **Cloud**: AWS, Azure, Google Cloud
+- **Databases**: MySQL, MongoDB, PostgreSQL
+- **Tools**: Git, Docker, Kubernetes, Jenkins, VS Code, Postman
+
+---
+
+## 🎯 My Contributions & Projects
+- **[Open-Source Contributions](https://github.com/arman-junach)**: I contribute to various open-source projects related to cloud computing, app development, and other exciting areas.
+- **Personal Projects**: [My Portfolio](https://your-portfolio-link) showcasing some of my recent cloud and app development projects.
+
+---
+
+## 💬 Let's Connect:
+- **Twitter**: [@ArmanJunach](https://twitter.com/ArmanJunach)
+- **LinkedIn**: [Arman Junach](https://linkedin.com/in/arman-junach)
+- **Website**: [Your Website](https://your-website-link)
 
