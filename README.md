@@ -26,7 +26,7 @@ Here's a snapshot of my activity, contributions, and some of the cool projects I
 
 ## 📊 My Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armanjunach12&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/c++/?username=armanjunach12&layout=compact&theme=radical)
 
 ---
 
