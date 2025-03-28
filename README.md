@@ -8,23 +8,17 @@ Here's a snapshot of my activity, contributions, and some of the cool projects I
 
 ## 📊 GitHub Stats
 
-<p align="center">
 ![Arman Junach's GitHub Stats](https://github-readme-stats.vercel.app/api?username=armanjunach12&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-</p>
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
 ![Arman Junach's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=armanjunach12&theme=radical)
-</p>
 ---
 
 ## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=armanjunach12&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=armanjunach12&theme=tokyonight" alt="GitHub Streak" />
 
 ---
 
