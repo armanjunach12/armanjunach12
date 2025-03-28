@@ -8,25 +8,25 @@ Here's a snapshot of my activity, contributions, and some of the cool projects I
 
 ## 📊 GitHub Stats
 
-![Arman Junach's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arman-junach&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![Arman Junach's GitHub Stats](https://github-readme-stats.vercel.app/api?username=armanjunach12&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![Arman Junach's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=arman-junach&theme=radical)
+![Arman Junach's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=armanjunach12&theme=radical)
 
 ---
 
 ## 📈 Contribution Graph
 
-![Arman Junach's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=arman-junach&theme=github)
+![Arman Junach's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=armanjunach12&theme=github)
 
 ---
 
 ## 📊 My Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arman-junach&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armanjunach12&layout=compact&theme=radical)
 
 ---
 
@@ -40,13 +40,12 @@ Here's a snapshot of my activity, contributions, and some of the cool projects I
 ---
 
 ## 🎯 My Contributions & Projects
-- **[Open-Source Contributions](https://github.com/arman-junach)**: I contribute to various open-source projects related to cloud computing, app development, and other exciting areas.
+- **[Open-Source Contributions](https://github.com/armanjunach12)**: I contribute to various open-source projects related to cloud computing, app development, and other exciting areas.
 - **Personal Projects**: [My Portfolio](https://your-portfolio-link) showcasing some of my recent cloud and app development projects.
 
 ---
 
 ## 💬 Let's Connect:
 - **Twitter**: [@ArmanJunach](https://twitter.com/ArmanJunach)
-- **LinkedIn**: [Arman Junach](https://linkedin.com/in/arman-junach)
+- **LinkedIn**: [Arman Junach](https://linkedin.com/in/armanjunach)
 - **Website**: [Your Website](https://your-website-link)
-
