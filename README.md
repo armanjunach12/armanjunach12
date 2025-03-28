@@ -38,12 +38,12 @@ Here's a snapshot of my activity, contributions, and some of the cool projects I
 ---
 
 ## 🎯 My Contributions & Projects
-- **[Open-Source Contributions](https://github.com/armanjunach12)**: I contribute to various open-source projects related to cloud computing, app development, and other exciting areas.
-- **Personal Projects**: [My Portfolio](https://your-portfolio-link) showcasing some of my recent cloud and app development projects.
+- **[stone-paper-scissor-game](https://github.com/armanjunach12)**: I contribute to various open-source projects related to cloud computing, app development, and other exciting areas.
+- **car rent systerm**: [My Portfolio](https://your-portfolio-link) showcasing some of my recent cloud and app development projects.
 
 ---
 
 ## 💬 Let's Connect:
 - **Twitter**: [@ArmanJunach](https://twitter.com/ArmanJunach)
 - **LinkedIn**: [Arman Junach](https://linkedin.com/in/armanjunach)
-- **Website**: [Your Website](https://your-website-link)
+- **Website**: [Arman junach](https://your-website-link)
