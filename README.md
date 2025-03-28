@@ -20,13 +20,13 @@ Here's a snapshot of my activity, contributions, and some of the cool projects I
 
 ## 📈 Contribution Graph
 
-![Arman Junach's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=armanjunach12&theme=github)
+![Arman Junach's Contribution Graph](https://github-readme-activity-graph.cyclic.app/username=armanjunach12&theme=github)
 
 ---
 
 ## 📊 My Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/c++/?username=armanjunach12&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=armanjunach12&layout=compact&theme=radical)
 
 ---
 
