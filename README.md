@@ -30,7 +30,9 @@ This profile showcases my learning journey, projects, and experiments in softwar
 ---
 
 ## 💻 Top Language
-![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=armanjunach12&layout=compact&langs_count=1)
+![Python](https://img.shields.io/badge/Python-90%25-blue)
+![Others](https://img.shields.io/badge/Other%20Languages-10%25-lightgrey)
+
 ![Python](https://img.shields.io/badge/Top%20Language-Python-blue?style=for-the-badge&logo=python)
 
 ---
