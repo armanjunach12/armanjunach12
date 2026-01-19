@@ -78,35 +78,50 @@ Stack: HTML, CSS, python
 
 A mini project focused on CRUD operations, backend logic, and database handling.
 
-3.🌍 NGO Website
+3. 🌍 NGO Website
 
 Stack: HTML, CSS, JavaScript, Python (Flask/Django)
 
 A responsive website for a non-profit organization with sections for About, Projects, Volunteers, and Contact. Focus areas: accessible design, contact/donation form (prototype), and clear content structure.
 
-4.🧑‍🏫🖍️ Whiteboard (Collaborative Whiteboard)
+4. 🧑‍🏫🖍️ Whiteboard (Collaborative Whiteboard)
 
 Stack: HTML5 Canvas, JavaScript, Python (Flask + Socket.IO)
 
 A web-based whiteboard for drawing and brainstorming. Features include drawing tools, clear/erase, and a prototype real-time sync using WebSockets for collaboration.
 
-5.❌⭕ Tic Tac Toe
+5. ❌⭕ Tic Tac Toe
 
 Stack: Python (Tkinter / CLI)
 
 Classic Tic Tac Toe game implemented in Python. Includes a simple AI opponent (minimax or heuristic) and a GUI version built with Tkinter for practice with event-driven programming.
 
-6.🤖💬 AI-Chat (Ani)
+6. 🤖💬 AI-Chat (Ani)
 
 Stack: Python,ulama,voice-chat
 
 made free and no use api anime ai vtuber simple
 
-7.🤖Jarvish (ai buddy)
+7. 🤖Jarvish (ai buddy)
 
 Stack: livekit ,open ai,python
 
 made on fully api and livekit per free and iron man type ai patner 
+
+8. 🧠💻 Smart Attendance System
+
+Tech: Python, OpenCV (optional), CSV / Database
+A digital attendance system that records and manages student attendance automatically. Designed to reduce manual work and improve accuracy.
+
+9. 🔐🗂️ Password Manager
+
+Tech: Python, File Handling / SQLite
+A secure password manager to store, retrieve, and manage user credentials locally. Focuses on data security, encryption basics, and file/database handling.
+
+10. 🌦️📊 Weather Forecast Application
+
+Tech: Python, API, JSON
+A simple application that fetches real-time weather data using an API and displays temperature, humidity, and forecasts for selected locations.
 ---
 
 ## 🌱 Currently Learning
