@@ -34,6 +34,13 @@ This profile showcases my learning journey, projects, and experiments in softwar
 
 ---
 
+## 📊 Developer Status
+![Status](https://img.shields.io/badge/Commits-Growing-blue)
+![Status](https://img.shields.io/badge/Consistency-Building-orange)
+![Status](https://img.shields.io/badge/Experience-Student-lightgrey)
+
+---
+
 ## 🧑‍💻 Skills & Tools
 
 **Languages:**  
