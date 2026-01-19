@@ -66,19 +66,19 @@ Git, GitHub, VS Code, Postman, Jenkins
 
 ## 🚀 Projects
 
-1. 🎮 **Stone Paper Scissors Game**
+1. 🎮 Stone Paper Scissors Game
 
 Stack: HTML, CSS, javasript
  
 A simple game built to practice logic and basic programming concepts.  
 
-2. 🚗 **Car Rental System**
+2. 🚗 Car Rental System
 
 Stack: HTML, CSS, python
 
 A mini project focused on CRUD operations, backend logic, and database handling.
 
-4. 🌍 NGO Website
+3.🌍 NGO Website
 
 Stack: HTML, CSS, JavaScript, Python (Flask/Django)
 
