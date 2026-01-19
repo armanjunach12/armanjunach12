@@ -22,6 +22,12 @@ This profile showcases my learning journey, projects, and experiments in softwar
 <h2>🏆 GitHub Trophies</h2>
 <img src="https://github-profile-trophy.vercel.app/?username=armanjunach12" />
 
+## 🏆 Achievements
+![Student](https://img.shields.io/badge/Status-BSc%20IT%20Student-blue?style=for-the-badge)
+![Learning](https://img.shields.io/badge/Focus-Cloud%20%26%20App%20Dev-purple?style=for-the-badge)
+![Projects](https://img.shields.io/badge/Projects-In%20Progress-yellow?style=for-the-badge)
+
+
 ---
 
 ## 💻 Top Languages
