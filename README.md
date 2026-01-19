@@ -72,31 +72,31 @@ Git, GitHub, VS Code, Postman, Jenkins
 2. 🚗 **Car Rental System**  
   A mini project focused on CRUD operations, backend logic, and database handling.
 
-3. NGO Website
+3. 🌍 NGO Website
 
 Stack: HTML, CSS, JavaScript, Python (Flask/Django)
 
 A responsive website for a non-profit organization with sections for About, Projects, Volunteers, and Contact. Focus areas: accessible design, contact/donation form (prototype), and clear content structure.
 
-4. Whiteboard (Collaborative Whiteboard)
+4.🧑‍🏫🖍️ Whiteboard (Collaborative Whiteboard)
 
 Stack: HTML5 Canvas, JavaScript, Python (Flask + Socket.IO)
 
 A web-based whiteboard for drawing and brainstorming. Features include drawing tools, clear/erase, and a prototype real-time sync using WebSockets for collaboration.
 
-5. Tic Tac Toe
+5.❌⭕ Tic Tac Toe
 
 Stack: Python (Tkinter / CLI)
 
 Classic Tic Tac Toe game implemented in Python. Includes a simple AI opponent (minimax or heuristic) and a GUI version built with Tkinter for practice with event-driven programming.
 
-6. AI-Chat (Ani)
+6.🤖💬 AI-Chat (Ani)
 
 Stack: Python,ulama,voice-chat
 
 made free and no use api anime ai vtuber simple
 
-7. Jarvish (ai buddy)
+7.🤖Jarvish (ai buddy)
 
 Stack: livekit ,open ai,python
 
