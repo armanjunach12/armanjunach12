@@ -13,14 +13,13 @@ This profile showcases my learning journey, projects, and experiments in softwar
 
 ---
 
-<h2>🔥 GitHub Streak</h2>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=armanjunach12" />
+## 📈 My Journey
+![Journey](https://img.shields.io/badge/Stage-Learning%20%26%20Building-success?style=for-the-badge)
+
 
 
 ---
 
-<h2>🏆 GitHub Trophies</h2>
-<img src="https://github-profile-trophy.vercel.app/?username=armanjunach12" />
 
 ## 🏆 Achievements
 ![Student](https://img.shields.io/badge/Status-BSc%20IT%20Student-blue?style=for-the-badge)
