@@ -13,14 +13,14 @@ This profile showcases my learning journey, projects, and experiments in softwar
 
 ---
 
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=armanjunach12&theme=radical)
+<h2>🔥 GitHub Streak</h2>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=armanjunach12" />
 
 
 ---
 
-## 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=armanjunach12&theme=tokyonight)
+<h2>🏆 GitHub Trophies</h2>
+<img src="https://github-profile-trophy.vercel.app/?username=armanjunach12" />
 
 ---
 
