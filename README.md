@@ -14,7 +14,8 @@ This profile showcases my learning journey, projects, and experiments in softwar
 ---
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=armanjunach12&theme=radical&no-frame=true)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=armanjunach12&theme=radical)
+
 
 ---
 
