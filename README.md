@@ -1,138 +1,124 @@
-# 👋 Hello, I'm Arman Junach
 
-Welcome to my GitHub profile!  
-I’m a **BSc IT student specializing in Cloud & Application Development at Marwadi University**.  
-I enjoy building practical projects, learning modern technologies, and improving my skills step by step.
+# 👋 Hi, I'm Arman Junach!
 
-This profile showcases my learning journey, projects, and experiments in software and cloud development.
+### 💻 BSc IT Student | Cloud & Application Development | Developer
 
----
+I'm a BSc IT student specializing in **Cloud & Application Development at Marwadi University**.
 
-## 📊 GitHub Stats
-![Arman Junach's GitHub Stats](https://github-readme-stats.vercel.app/api?username=armanjunach12&show_icons=true&count_private=true&theme=radical)
+I enjoy building practical applications, experimenting with new technologies, and turning ideas into working projects. I'm continuously learning and improving my skills in software development, cloud computing, and AI.
 
 ---
 
-## 📈 My Journey
-![Journey](https://img.shields.io/badge/Stage-Learning%20%26%20Building-success?style=for-the-badge)
+## 🚀 Languages & Technologies
 
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,java,cpp,html,css,react,nodejs,express,django,flask,flutter,mysql,mongodb,postgres,aws,azure,gcp,docker,kubernetes,git,github,vscode,postman,jenkins&perline=8" />
+</p>
 
 ---
 
+## 📊 GitHub Statistics
 
-## 🏆 Achievements
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=armanjunach12&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=armanjunach12&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=armanjunach12&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Developer Journey
+
 ![Student](https://img.shields.io/badge/Status-BSc%20IT%20Student-blue?style=for-the-badge)
-![Learning](https://img.shields.io/badge/Focus-Cloud%20%26%20App%20Dev-purple?style=for-the-badge)
-![Projects](https://img.shields.io/badge/Projects-In%20Progress-yellow?style=for-the-badge)
-
-
----
-
-## 💻 Top Language
-![Python](https://img.shields.io/badge/Python-90%25-blue)
-![Others](https://img.shields.io/badge/Other%20Languages-10%25-lightgrey)
-
-![Python](https://img.shields.io/badge/Top%20Language-Python-blue?style=for-the-badge&logo=python)
+![Focus](https://img.shields.io/badge/Focus-Cloud%20%26%20Application%20Development-purple?style=for-the-badge)
+![Building](https://img.shields.io/badge/Status-Building%20Projects-success?style=for-the-badge)
 
 ---
 
-## 📊 Developer Status
-![Status](https://img.shields.io/badge/Commits-Growing-blue)
-![Status](https://img.shields.io/badge/Consistency-Building-orange)
-![Status](https://img.shields.io/badge/Experience-Student-lightgrey)
+## 🚀 My Projects
 
----
+### 1. 🎮 Stone Paper Scissors Game
+**Technologies:** HTML, CSS, JavaScript
 
-## 🧑‍💻 Skills & Tools
+A simple interactive game developed to practice programming logic and JavaScript fundamentals.
 
-**Languages:**  
-Python, JavaScript, Java, C++
+### 2. 🚗 Car Rental System
+**Technologies:** HTML, CSS, Python
 
-**Frameworks & Libraries:**  
-React, Node.js, Express, Django, Flutter
+A mini car rental application focused on CRUD operations, backend logic, and database management.
 
-**Cloud & DevOps:**  
-AWS (Basics), Azure (Basics), Google Cloud (Learning)  
-Docker, Kubernetes (Beginner)
+### 3. 🌍 NGO Website
+**Technologies:** HTML, CSS, JavaScript, Python
 
-**Databases:**  
-MySQL, MongoDB, PostgreSQL
+A responsive website for a non-profit organization featuring information about projects, volunteers, and contact details.
 
-**Tools:**  
-Git, GitHub, VS Code, Postman, Jenkins
+### 4. 🧑‍💻 Collaborative Whiteboard
+**Technologies:** HTML5 Canvas, JavaScript, Python, Flask, Socket.IO
 
----
+A web-based drawing and brainstorming application with drawing tools, erasing, and real-time collaboration functionality.
 
-## 🚀 Projects
+### 5. ❌⭕ Tic Tac Toe
+**Technologies:** Python, Tkinter
 
-1. 🎮 Stone Paper Scissors Game
+A classic Tic Tac Toe game featuring a simple AI opponent and a graphical user interface.
 
-Stack: HTML, CSS, javasript
- 
-A simple game built to practice logic and basic programming concepts.  
+### 6. 🤖 AI Chat – Ani
+**Technologies:** Python, Ollama, Voice Interaction
 
-2. 🚗 Car Rental System
+An AI anime-inspired virtual assistant built with Python, focusing on conversational interaction and voice-based features without relying on paid API services.
 
-Stack: HTML, CSS, python
+### 7. 🦾 Jarvish – AI Buddy
+**Technologies:** Python, LiveKit, OpenAI
 
-A mini project focused on CRUD operations, backend logic, and database handling.
+An AI-powered personal assistant inspired by Iron Man's JARVIS, designed to provide conversational and voice-based interactions.
 
-3. 🌍 NGO Website
+### 8. 🧠 Smart Attendance System
+**Technologies:** Python, OpenCV, CSV, Database
 
-Stack: HTML, CSS, JavaScript, Python (Flask/Django)
+A digital attendance management system designed to simplify attendance tracking and reduce manual work.
 
-A responsive website for a non-profit organization with sections for About, Projects, Volunteers, and Contact. Focus areas: accessible design, contact/donation form (prototype), and clear content structure.
+### 9. 🔐 Password Manager
+**Technologies:** Python, SQLite, File Handling
 
-4. 🧑‍🏫🖍️ Whiteboard (Collaborative Whiteboard)
+A local password management application designed to store and manage credentials, with a focus on encryption and data security.
 
-Stack: HTML5 Canvas, JavaScript, Python (Flask + Socket.IO)
+### 10. 🌦️ Weather Forecast Application
+**Technologies:** Python, API, JSON
 
-A web-based whiteboard for drawing and brainstorming. Features include drawing tools, clear/erase, and a prototype real-time sync using WebSockets for collaboration.
+A weather application that retrieves weather information through APIs and displays temperature, humidity, and forecast details.
 
-5. ❌⭕ Tic Tac Toe
-
-Stack: Python (Tkinter / CLI)
-
-Classic Tic Tac Toe game implemented in Python. Includes a simple AI opponent (minimax or heuristic) and a GUI version built with Tkinter for practice with event-driven programming.
-
-6. 🤖💬 AI-Chat (Ani)
-
-Stack: Python,ulama,voice-chat
-
-made free and no use api anime ai vtuber simple
-
-7. 🤖Jarvish (ai buddy)
-
-Stack: livekit ,open ai,python
-
-made on fully api and livekit per free and iron man type ai patner 
-
-8. 🧠💻 Smart Attendance System
-
-Tech: Python, OpenCV (optional), CSV / Database
-A digital attendance system that records and manages student attendance automatically. Designed to reduce manual work and improve accuracy.
-
-9. 🔐🗂️ Password Manager
-
-Tech: Python, File Handling / SQLite
-A secure password manager to store, retrieve, and manage user credentials locally. Focuses on data security, encryption basics, and file/database handling.
-
-10. 🌦️📊 Weather Forecast Application
-
-Tech: Python, API, JSON
-A simple application that fetches real-time weather data using an API and displays temperature, humidity, and forecasts for selected locations.
 ---
 
 ## 🌱 Currently Learning
-- Cloud Computing fundamentals  
-- Full-stack web development  
-- Clean code & best practices  
+
+- ☁️ Cloud Computing and AWS
+- 🌐 Full-Stack Web Development
+- ⚛️ React and Modern JavaScript
+- 🤖 Artificial Intelligence
+- 🐳 Docker and Kubernetes
+- 💡 Clean Code and Software Development Practices
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Let's Connect
 
-- **LinkedIn:** https://linkedin.com/in/arman-junach  
-- **Twitter (X):** https://twitter.com/ArmanJunach  
-- **GitHub:** https://github.c
+<p align="left">
+  <a href="https://linkedin.com/in/arman-junach">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://twitter.com/ArmanJunach">
+    <img src="https://img.shields.io/badge/Twitter-Follow-black?style=for-the-badge&logo=x" />
+  </a>
+  <a href="https://github.com/armanjunach12">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>💻 Learning, Building, and Growing Every Day!</b>
+</p>
