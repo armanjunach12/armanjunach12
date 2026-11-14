@@ -9,10 +9,10 @@ I enjoy building practical applications, experimenting with new technologies, an
 
 ---
 
-## 🚀 Languages & Technologies
+### ⚙️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,java,cpp,html,css,react,nodejs,express,django,flask,flutter,mysql,mongodb,postgres,aws,azure,gcp,docker,kubernetes,git,github,vscode,postman,jenkins&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,js,java,cpp,html,css,react,nodejs,flask,django,mysql,mongodb,aws,docker,git,github,vscode&perline=9" />
 </p>
 
 ---
@@ -103,22 +103,14 @@ A weather application that retrieves weather information through APIs and displa
 
 ---
 
+
 ## 🤝 Let's Connect
 
 <p align="left">
   <a href="https://linkedin.com/in/arman-junach">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://twitter.com/ArmanJunach">
-    <img src="https://img.shields.io/badge/Twitter-Follow-black?style=for-the-badge&logo=x" />
-  </a>
   <a href="https://github.com/armanjunach12">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <b>💻 Learning, Building, and Growing Every Day!</b>
 </p>
